@@ -2,7 +2,7 @@
   "name": "book-trading-prototype",
   "private": true,
   "scripts": {
-    "start": "meteor run"
+    "start": "meteor run --port ${PORT}"
   },
   "dependencies": {
     "meteor-node-stubs": "~0.2.0"
